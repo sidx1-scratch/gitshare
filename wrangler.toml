@@ -1,0 +1,7 @@
+name = "ngrok-proxy"
+type = "javascript"
+account_id = "1678fc5b7e9f08cd0c812f598e5fecfa"
+workers_dev = false
+compatibility_date = "2025-07-18"
+zone_id = "86d9ba184eb81fc49ac37dbc98589a74"
+routes = ["gitshare.sidx1.com/*"]
