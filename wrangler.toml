@@ -3,6 +3,7 @@ main = "src/index.js"
 compatibility_date = "2025-07-18"
 
 [env.production]
+name = "gitsharex"
 route = "gitshare.sidx1.com/*"
 account_id = "1678fc5b7e9f08cd0c812f598e5fecfa"
 zone_id = "86d9ba184eb81fc49ac37dbc98589a74"
