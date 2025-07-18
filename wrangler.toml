@@ -1,4 +1,4 @@
-name = "ngrok-proxy"
+name = "gitshare"
 main = "src/index.js"
 compatibility_date = "2025-07-18"
 
